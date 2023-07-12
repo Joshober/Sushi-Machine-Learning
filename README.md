@@ -1,3 +1,6 @@
+##Modiciations: 
+Create an extra column in the SQLite database with a rough estimate of what genre a book is based purely on its title. 
+Added a file that can be called that to allow the service to be updated automatically once set up.
 # COUNTER 5 Report Tool
 
 This project uses the SUSHI API to request usage reports from library vendors. The JSON data received is used to generate TSV reports that follow the COUNTER 5 standards.
