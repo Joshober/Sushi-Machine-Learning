@@ -1,4 +1,4 @@
-## Modiciations: 
+## Modifications: 
 Create an extra column in the SQLite database with a rough estimate of what genre a book is based purely on its title. 
 Added a file that can be called that to allow the service to be updated automatically once set up.
 # COUNTER 5 Report Tool
